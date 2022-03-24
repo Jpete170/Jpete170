@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jackson Peters
 - 👀 I’m interested in learning to code in various languages
-- 🌱 I’m currently learning a Bachelor of Information Technology
+- 🌱 I’m currently learning web development, as well as some software development
 - 📫 How to reach me at LinkedIn: www.linkedin.com/in/jackson-peters-72515412a
 - My Portfolio Website: https://jacksonpeters.dev
 
